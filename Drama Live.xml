@@ -1,0 +1,15 @@
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Drama Live</title>
+    <link>https://dramalive.app/</link>
+    <description>Drama Live - Streaming app for live TV and dramas</description>
+
+    <item>
+      <title>Drama Live App</title>
+      <link>https://dramalive.app/download/dramalive.apk</link>
+      <media:content url="https://dramalive.app/download/dramalive.apk" type="application/vnd.android.package-archive" />
+      <media:thumbnail url="https://dramalive.app/wp-content/uploads/2021/11/DramaLiveIcon.png" />
+      <media:description>Download Drama Live, the streaming app for live TV and dramas.</media:description>
+    </item>
+  </channel>
+</rss>
